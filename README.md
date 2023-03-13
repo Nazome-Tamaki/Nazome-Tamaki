@@ -1,10 +1,11 @@
 <h1 align="center"> 🐳 Shark_aowu's Profile 🐳</h1>
 
-<h3> 🌟Self introduction</h3>
-
 - ✧ Pisces；`she / her`♡♡
+
 - ✧ At the edge of the world...♡♡
+
 - ✧ `Trisula` project development
+
 - `own` [鯊魚王國_亞特蘭提斯 (ﾉ・ω・)ﾉ](https://discord.gg/3jE3CShyaA)
 
 
@@ -39,6 +40,15 @@
 <p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p> 
+
+
+<h3> 💠OS</h3>
+<p>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p> 
 
 
