@@ -1,6 +1,6 @@
 <h1 align="center"> 🐳 Shark_aowu's profile 🐳</h1>
 
-<h3> 🌟Self introduction</h3>
+<h2> 🌟Self introduction</h2>
 <p>
 
 > ✧ Pisces；`she / her`♡♡
@@ -12,7 +12,7 @@
 </p>
 
 
-<h3> 🌟IDE</h3>
+<h2> 🌟IDE</h2>
 <p>
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
@@ -21,7 +21,7 @@
 </p>
 
 
-<h3> 🌟Programming language</h3>
+<h2> 🌟Programming language</h2>
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -31,13 +31,13 @@
 </p>
 
 
-<h3> 🌟Markup language</h3>
+<h2> 🌟Markup language</h2>
 <p>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 
-<h3> 🌟Database</h3>
+<h2> 🌟Database</h2>
 <p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> 
