@@ -1,6 +1,5 @@
-<h3 align="center"> 🐳 Shark_aowu's profile 🐳
+<h1 align="center"> 🐳 Shark_aowu's profile 🐳</h1>
 
----
 ###### 🌟Self introduction
 
 > ✧ Pisces；`she / her`♡♡
