@@ -1,7 +1,9 @@
 ### Hello, i'm Shark_aowu! 🐳
 
 :ocean:An atlantis below the waves is awaiting your arrival...
+
 :ocean:venture far enough beneath waves far enough through the sea and find us...
+
 :shark:the shark kingdom.
 
 - ✧ Pisces；`she / her`♡♡
