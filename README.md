@@ -1,4 +1,4 @@
-### Hello, i'm Shark_aowu! 🐳
+### Hello, i'm Nazome_Tamaki! 🐳
 
 :ocean:An atlantis below the waves is awaiting your arrival...
 
