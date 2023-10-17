@@ -53,4 +53,4 @@
 ---
 ### Github Stats! 📕
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shark-aowu&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazome-Tamaki&show_icons=true&theme=transparent)
