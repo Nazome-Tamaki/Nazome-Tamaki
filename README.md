@@ -4,12 +4,6 @@
 
 :ocean:venture far enough beneath waves far enough through the sea and find us...
 
-:shark:the shark kingdom.
-
-- ✧ Pisces；`she / her`♡♡
-- ✧ At the edge of the world...♡♡
-- ✧ `Trisula` project development
-
 ---
 ### What I Learned? 📓
 ##### 💠IDE
@@ -49,8 +43,3 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p> 
-
----
-### Github Stats! 📕
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nazome-Tamaki&show_icons=true&theme=transparent)
